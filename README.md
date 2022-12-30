@@ -1,6 +1,6 @@
 - 👋 Hi, I’m aiden257
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
+- 🌱 I’m currently learning game developemnt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me don't have valid email
 
