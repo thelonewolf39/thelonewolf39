@@ -1,6 +1,6 @@
-- 👋 Hi, I’m aiden257
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning game developemnt
+- 👋 Hi, I’m @theLoneWolf!
+- 👀 I’m interested in Creating a website for my yt channel!
+- My channel link is https://www.youtube.com/@thelonewolf-AS
 
 <!---
 aiden257/aiden257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
