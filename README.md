@@ -2,8 +2,7 @@
 - 👋 Hi, I’m @theLoneWolf!
 - 👀 I’m interested in Creating a website for my yt channel!
 - My channel link is https://www.youtube.com/@aBlockHunter
-- My [Mood Ring](thelonewolf39.github.io/Github-Mood-Rings/):
-  ![My Mood Ring](https://thelonewolf39.github.io/Github-Mood-Rings/?user=thelonewolf39)
+- My [Mood Ring](thelonewolf39.github.io/Github-Mood-Rings/): https://thelonewolf39.github.io/Github-Mood-Rings/?user=thelonewolf39
 
 <!---
 aiden257/aiden257 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
