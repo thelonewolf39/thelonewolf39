@@ -1,10 +1,10 @@
 ![thelonewolf39's GitHub Banner](https://raw.githubusercontent.com/thelonewolf39/thelonewolf39/main/banner.png)
 # 💫About Me :
-🔭 I’m currently working on projects to aid github
-👯 I’m looking to collaborate on mini github projects
-🤝 I’m looking for help with any of my pinned project
-🌱 I’m currently learning more about html
-💬 Ask me about my yt channel
+🔭 I’m currently working on projects to aid github  
+👯 I’m looking to collaborate on mini github projects  
+🤝 I’m looking for help with any of my pinned project  
+🌱 I’m currently learning more about html  
+💬 Ask me about my yt channel  
 ⚡ Fun fact: I'm a therian/furry, so far the only one on github (let me know if that changes 😊)
 
 ## 🌐Socials
