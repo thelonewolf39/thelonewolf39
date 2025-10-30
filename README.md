@@ -40,3 +40,5 @@
 3. 💪 Opened PR [#19](undefined) in [github/octocanvas](https://github.com/github/octocanvas)
 4. 💪 Opened PR [#1](undefined) in [gracewqma/TuimizRandonAnimalGenerator](https://github.com/gracewqma/TuimizRandonAnimalGenerator)
 <!--END_SECTION:activity-->
+## 🎵 Now playing
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e6wbqkpuizrggydmg2niudqgxi)
