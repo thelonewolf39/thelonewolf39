@@ -35,10 +35,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/LaggAt/hacs-govee/issues/262#issuecomment-3474325986) in [LaggAt/hacs-govee](https://github.com/LaggAt/hacs-govee)
-2. ❗ Opened issue [#20](https://github.com/github/octocanvas/issues/20) in [github/octocanvas](https://github.com/github/octocanvas)
-3. 💪 Opened PR [#2](undefined) in [gracewqma/TuimizRandonAnimalGenerator](https://github.com/gracewqma/TuimizRandonAnimalGenerator)
-4. ❗ Opened issue [#208](https://github.com/mdo/github-buttons/issues/208) in [mdo/github-buttons](https://github.com/mdo/github-buttons)
+1. 🗣 Commented on [#20](https://github.com/github/octocanvas/issues/20#issuecomment-3486961396) in [github/octocanvas](https://github.com/github/octocanvas)
+2. 🔒 Closed issue [#20](https://github.com/github/octocanvas/issues/20) in [github/octocanvas](https://github.com/github/octocanvas)
+3. 🗣 Commented on [#262](https://github.com/LaggAt/hacs-govee/issues/262#issuecomment-3474325986) in [LaggAt/hacs-govee](https://github.com/LaggAt/hacs-govee)
+4. ❗ Opened issue [#20](https://github.com/github/octocanvas/issues/20) in [github/octocanvas](https://github.com/github/octocanvas)
 <!--END_SECTION:activity-->
 ## 🎵 Now playing
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e6wbqkpuizrggydmg2niudqgxi)
