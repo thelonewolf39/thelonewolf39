@@ -8,7 +8,7 @@
 ⚡ Fun fact: I'm a therian/furry, so far the only one on github (let me know if that changes 😊)
 
 # Projects that I'm proud of:
-Github Mood Ring: It's a mood ring and it tracks how you contribute to things
+Github Mood Ring: It's a mood ring and it tracks how you contribute to things  
 D&D Map Maker: This is a repo that doesn't exist, but I'm currently making it rn
 
 ## 🌐Socials
