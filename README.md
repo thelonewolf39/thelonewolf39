@@ -16,6 +16,8 @@ D&D Map Maker: This is a repo that doesn't exist, but I'm currently making it rn
 
 ## Recent YT Videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![OC Pause to Draw v1](https://ytcards.demolab.com/?id=7ZjONd8sMo0&title=OC+Pause+to+Draw+v1&lang=en&timestamp=1762276536&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OC Pause to Draw v1")](https://www.youtube.com/shorts/7ZjONd8sMo0)
+[![S1 Ep1: The Start](https://ytcards.demolab.com/?id=r4AQUPb66Tk&title=S1+Ep1%3A+The+Start&lang=en&timestamp=1759854405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "S1 Ep1: The Start")](https://www.youtube.com/watch?v=r4AQUPb66Tk)
 <!-- END YOUTUBE-CARDS -->
 
 # 💻Tech Stack
