@@ -9,7 +9,8 @@
 
 # Projects that I'm proud of:
 Github Mood Ring: It's a mood ring and it tracks how you contribute to things  
-D&D Map Maker: This is a repo that doesn't exist, but I'm currently making it rn
+D&D Map Maker: This is a repo that doesn't exist, but I'm currently making it rn  
+Language-Learning-web: It's a website that allows you to learn Spanish
 
 ## 🌐Socials
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCo3Z-t-u4yfE5omo8Q_cl5Q) 
