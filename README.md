@@ -47,10 +47,10 @@ Language-Learning-web: It's a website that allows you to learn Spanish
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/thelonewolf39/what-broke-my-code/issues/1) in [thelonewolf39/what-broke-my-code](https://github.com/thelonewolf39/what-broke-my-code)
-2. 🗣 Commented on [#19](https://github.com/github/octocanvas/pull/19#issuecomment-3518456810) in [github/octocanvas](https://github.com/github/octocanvas)
-3. 💪 Opened PR [#2](undefined) in [thelonewolf39/skills-introduction-to-github](https://github.com/thelonewolf39/skills-introduction-to-github)
-4. 🗣 Commented on [#97](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/issues/97#issuecomment-3505214130) in [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation)
+1. 💪 Opened PR [#3](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
+2. 💪 Opened PR [#2](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
+3. ❗ Opened issue [#1](https://github.com/thelonewolf39/what-broke-my-code/issues/1) in [thelonewolf39/what-broke-my-code](https://github.com/thelonewolf39/what-broke-my-code)
+4. 🗣 Commented on [#19](https://github.com/github/octocanvas/pull/19#issuecomment-3518456810) in [github/octocanvas](https://github.com/github/octocanvas)
 <!--END_SECTION:activity-->
 ## 🎵 Now playing
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e6wbqkpuizrggydmg2niudqgxi)
