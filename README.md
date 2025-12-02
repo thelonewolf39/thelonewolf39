@@ -49,8 +49,8 @@ Language-Learning-web: It's a website that allows you to learn Spanish
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/thelonewolf39/thelonewolf39.github.io/pull/1#issuecomment-3564315341) in [thelonewolf39/thelonewolf39.github.io](https://github.com/thelonewolf39/thelonewolf39.github.io)
 2. 💪 Opened PR [#3](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
-3. 💪 Opened PR [#2](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
-4. ❗ Opened issue [#1](https://github.com/thelonewolf39/what-broke-my-code/issues/1) in [thelonewolf39/what-broke-my-code](https://github.com/thelonewolf39/what-broke-my-code)
+3. ❌ Merged PR [#2](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
+4. 💪 Opened PR [#2](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
 <!--END_SECTION:activity-->
 ## 🎵 Now playing
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e6wbqkpuizrggydmg2niudqgxi)
