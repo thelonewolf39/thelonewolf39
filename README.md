@@ -17,9 +17,7 @@ Language-Learning-web: It's a website that allows you to learn Spanish
 
 ## Recent YT Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![🎮 Dive Into Adventure: The Ultimate Trailer for aBlockHunter 🌍 - Epic Minecraft Journeys Await!](https://ytcards.demolab.com/?id=Wl4HtuFRZ4k&title=%F0%9F%8E%AE+Dive+Into+Adventure%3A+The+Ultimate+Trailer+for+aBlockHunter+%F0%9F%8C%8D+-+Epic+Minecraft+Journeys+Await%21&lang=en&timestamp=1763146516&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🎮 Dive Into Adventure: The Ultimate Trailer for aBlockHunter 🌍 - Epic Minecraft Journeys Await!")](https://www.youtube.com/watch?v=Wl4HtuFRZ4k)
-[![OC Pause to Draw v1](https://ytcards.demolab.com/?id=7ZjONd8sMo0&title=OC+Pause+to+Draw+v1&lang=en&timestamp=1762276536&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OC Pause to Draw v1")](https://www.youtube.com/shorts/7ZjONd8sMo0)
-[![S1 Ep1: The Start](https://ytcards.demolab.com/?id=r4AQUPb66Tk&title=S1+Ep1%3A+The+Start&lang=en&timestamp=1759854405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "S1 Ep1: The Start")](https://www.youtube.com/watch?v=r4AQUPb66Tk)
+
 <!-- END YOUTUBE-CARDS -->
 
 # 💻Tech Stack
