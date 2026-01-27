@@ -1,56 +1,97 @@
 ![thelonewolf39's GitHub Banner](https://raw.githubusercontent.com/thelonewolf39/thelonewolf39/main/banner.png)
-# 💫About Me :
-🔭 I’m currently working on projects to aid github  
-👯 I’m looking to collaborate on mini github projects  
-🤝 I’m looking for help with any of my pinned project  
-🌱 I’m currently learning more about html  
-💬 Ask me about my yt channel  
-⚡ Fun fact: I'm a therian/furry, so far the only one on github (let me know if that changes 😊)
+<div align="center">
 
-# Projects that I'm proud of:
-Github Mood Ring: It's a mood ring and it tracks how you contribute to things  
-D&D Map Maker: This is a repo that doesn't exist, but I'm currently making it rn  
-Language-Learning-web: It's a website that allows you to learn Spanish
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello.%20I'm%20thelonewolf39" alt="Typing SVG" /></a>
 
-## 🌐Socials
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCo3Z-t-u4yfE5omo8Q_cl5Q) 
+### I'm a developer starting to learn how to do more open source stuff
 
-## Recent YT Videos
-<!-- BEGIN YOUTUBE-CARDS -->
-[![🎮 Dive Into Adventure: The Ultimate Trailer for aBlockHunter 🌍 - Epic Minecraft Journeys Await!](https://ytcards.demolab.com/?id=Wl4HtuFRZ4k&title=%F0%9F%8E%AE+Dive+Into+Adventure%3A+The+Ultimate+Trailer+for+aBlockHunter+%F0%9F%8C%8D+-+Epic+Minecraft+Journeys+Await%21&lang=en&timestamp=1763146516&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "🎮 Dive Into Adventure: The Ultimate Trailer for aBlockHunter 🌍 - Epic Minecraft Journeys Await!")](https://www.youtube.com/watch?v=Wl4HtuFRZ4k)
-[![OC Pause to Draw v1](https://ytcards.demolab.com/?id=7ZjONd8sMo0&title=OC+Pause+to+Draw+v1&lang=en&timestamp=1762276536&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "OC Pause to Draw v1")](https://www.youtube.com/shorts/7ZjONd8sMo0)
-[![S1 Ep1: The Start](https://ytcards.demolab.com/?id=r4AQUPb66Tk&title=S1+Ep1%3A+The+Start&lang=en&timestamp=1759854405&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "S1 Ep1: The Start")](https://www.youtube.com/watch?v=r4AQUPb66Tk)
-<!-- END YOUTUBE-CARDS -->
+![Profile Views](https://komarev.com/ghpvc/?username=thelonewolf39&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/followers/thelonewolf39?style=flat-square&color=blue)
 
-# 💻Tech Stack
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=thelonewolf39&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=thelonewolf39&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thelonewolf39&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelonewolf39) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](ablockhunter.me)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=thelonewolf39&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🧑‍💻Random Cyber Quote
-![](https://github-readme-cyber-quotes.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thelonewolf39&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### :zap: Recent Activity
+## 🧐 About Me
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/thelonewolf39/homebrew-CrossCast/pull/1#issuecomment-3740108719) in [thelonewolf39/homebrew-CrossCast](https://github.com/thelonewolf39/homebrew-CrossCast)
-2. 💪 Opened PR [#3](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
-3. ❌ Merged PR [#2](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
-4. 💪 Opened PR [#2](undefined) in [thelonewolf39/skills-communicate-using-markdown](https://github.com/thelonewolf39/skills-communicate-using-markdown)
-<!--END_SECTION:activity-->
-## 🎵 Now playing
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31e6wbqkpuizrggydmg2niudqgxi)
+I'm an indie developer that likes doing a whole bunch of stuff
+
+- 🔭 I'm currently working on **Making some new games**
+- 🌱 I'm currently learning **Game development using Unity**
+- 👯 I'm looking to collaborate on **AI features**
+- 🎮 Hobbies: **Gaming, Art, YouTubing**
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="skills" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="skills" />
+</p>
+
+### 🛠 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=github,git,docker,vercel,apple,windows,vscode,ubuntu,debian,blender,unity,discord&theme=dark" alt="skills" /><br /><img src="https://skillicons.dev/icons?i=npm&theme=dark" alt="skills" />
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thelonewolf39&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" loading="eager" fetchpriority="high" /></td>
+      <td><img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thelonewolf39&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="eager" fetchpriority="high" /></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thelonewolf39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
+    </tr>
+  </table>
+</div>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thelonewolf39&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thelonewolf39&theme=tokyo-night&hide_border=true" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+## 💼 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/gracewqma/TuimizRandonAnimalGenerator"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=gracewqma&repo=TuimizRandonAnimalGenerator&theme=tokyonight&hide_border=true&show_description=true" /></a>
+</p>
+
+## 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting!</strong> ⭐ Star my repos if you like them!
+</p>
