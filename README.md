@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thelonewolf39&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/followers/thelonewolf39?style=flat-square&color=blue)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelonewolf39) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelonewolf39)
 
 </div>
 
@@ -45,7 +45,7 @@ I'm an indie developer that likes doing a whole bunch of stuff
 <div align="center">
   <table>
     <tr>
-      <td><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thelonewolf39&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" loading="eager" fetchpriority="high" /></td>
+      <td><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=XsquiddokidX&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" loading="eager" fetchpriority="high" /></td>
       <td><img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=XsquiddokidX&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="eager" fetchpriority="high" /></td>
     </tr>
     <tr>
