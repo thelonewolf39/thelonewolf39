@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thelonewolf39&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/followers/thelonewolf39?style=flat-square&color=blue)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelonewolf39) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](ablockhunter.me)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelonewolf39) 
 
 </div>
 
@@ -18,7 +18,7 @@ I'm an indie developer that likes doing a whole bunch of stuff
 - 🔭 I'm currently working on **Making some new games**
 - 🌱 I'm currently learning **Game development using Unity**
 - 👯 I'm looking to collaborate on **AI features**
-- 🎮 Hobbies: **Gaming, Art, YouTubing**
+- 🎮 Hobbies: **Gaming, Art**
 
 ## 🛠️ Tech Stack
 
@@ -46,10 +46,10 @@ I'm an indie developer that likes doing a whole bunch of stuff
   <table>
     <tr>
       <td><img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thelonewolf39&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" loading="eager" fetchpriority="high" /></td>
-      <td><img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=thelonewolf39&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="eager" fetchpriority="high" /></td>
+      <td><img width="100%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=XsquiddokidX&theme=tokyonight&hide_border=true" alt="GitHub Streak" loading="eager" fetchpriority="high" /></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thelonewolf39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
+      <td colspan="2" align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XsquiddokidX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" /></td>
     </tr>
   </table>
 </div>
@@ -57,13 +57,13 @@ I'm an indie developer that likes doing a whole bunch of stuff
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thelonewolf39&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=XsquiddokidX&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 </p>
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thelonewolf39&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XsquiddokidX&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 🐍 Contribution Snake
