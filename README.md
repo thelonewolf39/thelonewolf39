@@ -3,9 +3,9 @@
 
 ### I'm a developer starting to learn how to do more open source stuff
 
-![Profile Views](https://komarev.com/ghpvc/?username=thelonewolf39&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/followers/thelonewolf39?style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=XsquiddokidX&color=blueviolet&style=flat-square) ![Followers](https://img.shields.io/github/followers/XsquiddokidX?style=flat-square&color=blue)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thelonewolf39)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/XsquiddokidX)
 
 </div>
 
